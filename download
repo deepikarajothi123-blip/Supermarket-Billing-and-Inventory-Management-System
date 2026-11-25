@@ -1,0 +1,8 @@
+target/
+.supermarket-local-db*
+*.mv.db
+*.trace.db
+.idea/
+.vscode/
+.DS_Store
+*.log
